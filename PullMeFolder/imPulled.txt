@@ -1,0 +1,3 @@
+I was created from a checked out branch.
+
+My goal is to be pushed to the remote repo.
